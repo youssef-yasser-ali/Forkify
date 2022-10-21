@@ -11,10 +11,6 @@ import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime';
 import { MODAL_CLOSE_SEC } from './config.js';
 
-if (module.hot) {
-  module.hot.accept();
-}
-
 // import { search } from 'core-js/fn/symbol';
 
 // https://forkify-api.herokuapp.com/v2
