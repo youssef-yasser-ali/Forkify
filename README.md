@@ -36,7 +36,7 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SCSS](https://sass-lang.com/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [Webpack](https://webpack.js.org/)
+- [Parcel](https://parceljs.org/)
 - [NPM](https://www.npmjs.com/)
 
 ### Structure
